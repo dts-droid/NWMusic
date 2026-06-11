@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-06-10T07:30:00+00:00",
+ "region": "North West England",
+ "window_days": 120,
+ "count": 6,
+ "sample": true,
+ "gigs": [
+  {"id":"smpl00000001","title":"Courteeners — St Jude 18th Anniversary","artist":"Courteeners","date":"2026-06-13","time":"19:00","venue":"Co-op Live","city":"Manchester","postcode":"M11 3DU","lat":53.4838,"lng":-2.1958,"genres":["indie rock"],"image":"","sources":[{"name":"Ticketmaster","url":"https://www.ticketmaster.co.uk","price":45.0}]},
+  {"id":"smpl00000002","title":"Blossoms + special guests","artist":"Blossoms","date":"2026-06-16","time":"19:30","venue":"Albert Hall","city":"Manchester","postcode":"M2 5PD","lat":53.4779,"lng":-2.2466,"genres":["indie pop"],"image":"","sources":[{"name":"Skiddle","url":"https://www.skiddle.com","price":28.0},{"name":"Ents24","url":"https://www.ents24.com","price":27.5}]},
+  {"id":"smpl00000003","title":"The Lathums","artist":"The Lathums","date":"2026-06-19","time":"19:00","venue":"The Jacaranda","city":"Liverpool","postcode":"L1 4BW","lat":53.4027,"lng":-2.9792,"genres":["indie rock"],"image":"","sources":[{"name":"Ents24","url":"https://www.ents24.com","price":18.0},{"name":"Venue site","url":"https://jacarandarecords.com","price":18.0}]},
+  {"id":"smpl00000004","title":"Yard Act — The Overload Tour","artist":"Yard Act","date":"2026-06-22","time":"19:30","venue":"Arts Club","city":"Liverpool","postcode":"L1 9AR","lat":53.4023,"lng":-2.9809,"genres":["post-punk"],"image":"","sources":[{"name":"Ents24","url":"https://www.ents24.com","price":22.0}]},
+  {"id":"smpl00000005","title":"CMAT","artist":"CMAT","date":"2026-06-26","time":"19:00","venue":"Camp & Furnace","city":"Liverpool","postcode":"L1 0BL","lat":53.3946,"lng":-2.9806,"genres":["country pop"],"image":"","sources":[{"name":"Skiddle","url":"https://www.skiddle.com","price":20.0}]},
+  {"id":"smpl00000006","title":"Sprints","artist":"Sprints","date":"2026-07-02","time":"19:30","venue":"Parr Hall","city":"Warrington","postcode":"WA1 1BL","lat":53.3901,"lng":-2.5916,"genres":["post-punk"],"image":"","sources":[{"name":"Ticketmaster","url":"https://www.ticketmaster.co.uk","price":18.0}]}
+ ]
+}

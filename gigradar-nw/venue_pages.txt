@@ -1,0 +1,23 @@
+# GigRadar NW - extra venue pages
+#
+# One URL per line. Each daily run reads these pages and extracts any
+# machine-readable event listings (schema.org JSON-LD) the venue publishes.
+# Add a venue here whenever you spot a gig the app missed.
+# Lines starting with # are ignored.
+
+# Liverpool
+https://jacarandarecords.com/whats-on/
+https://www.arts-club-liverpool.com/events/
+https://futureyard.org/events/
+https://www.invisiblewindfactory.com/events/
+https://www.cavernclub.com/whats-on/
+
+# Manchester
+https://alberthallmanchester.com/whats-on/
+https://bandonthewall.org/events/
+https://www.thedeafinstitute.co.uk/events
+https://yes-manchester.com/events/
+
+# Chester / Warrington
+https://theliverooms.com/events/
+https://parrhall.culturewarrington.org/whats-on/
