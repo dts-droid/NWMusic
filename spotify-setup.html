@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GigRadar NW — Spotify setup</title>
+<style>
+ body{background:#0D0F15;color:#EEF0F4;font-family:system-ui,sans-serif;
+   max-width:560px;margin:0 auto;padding:24px 16px;line-height:1.6}
+ h1{font-size:19px;font-weight:900;letter-spacing:-.02em}
+ h1 em{font-style:normal;color:#FF5A1F}
+ p,li{font-size:14px;color:#B9BFD0} ol{padding-left:20px}
+ input{width:100%;padding:11px;border-radius:10px;border:1px solid #2E3346;
+   background:#0D0F15;color:#EEF0F4;font-size:14px;margin:6px 0 14px;box-sizing:border-box}
+ label{font-size:12px;font-weight:700;color:#8B92A5}
+ button{width:100%;padding:14px;border:none;border-radius:12px;background:#FF5A1F;
+   color:#fff;font-weight:900;font-size:14px;cursor:pointer;text-transform:uppercase}
+ .out{background:#0F1A14;border:1px solid #1A4A30;border-radius:12px;padding:14px;
+   margin-top:16px;word-break:break-all;font-family:ui-monospace,monospace;font-size:12px}
+ .warn{color:#F2B33D;font-size:12.5px}
+ code{background:#151823;padding:1px 6px;border-radius:6px;font-size:12.5px}
+</style>
+</head>
+<body>
+<h1>GIG<em>RADAR</em> NW — one-time Spotify setup</h1>
+<p>This page gets the <b>refresh token</b> that lets the daily job update your
+Spotify playlist. You only do this once. Nothing here is sent anywhere except
+directly to Spotify.</p>
+<ol>
+  <li>At <a href="https://developer.spotify.com/dashboard" target="_blank" rel="noopener"
+    style="color:#34C97B">developer.spotify.com/dashboard</a>, create an app
+    (any name). Under its settings, add this exact page's address as a
+    <b>Redirect URI</b>: <code id="self"></code></li>
+  <li>Copy the app's <b>Client ID</b> and <b>Client Secret</b> below.</li>
+  <li>Press the button and approve access on Spotify.</li>
+</ol>
+<label>Client ID</label><input id="cid" autocomplete="off">
+<label>Client Secret</label><input id="sec" type="password" autocomplete="off">
+<button id="go">Connect Spotify</button>
+<div id="result"></div>
+<script>
+"use strict";
+const SELF = location.origin + location.pathname;
+document.getElementById("self").textContent = SELF;
+const $=id=>document.getElementById(id);
+$("cid").value = sessionStorage.getItem("sp_cid")||"";
+$("sec").value = sessionStorage.getItem("sp_sec")||"";
+
+$("go").onclick = ()=>{
+  const cid=$("cid").value.trim(), sec=$("sec").value.trim();
+  if(!cid||!sec) return alert("Enter both Client ID and Client Secret first.");
+  sessionStorage.setItem("sp_cid",cid); sessionStorage.setItem("sp_sec",sec);
+  const u = new URL("https://accounts.spotify.com/authorize");
+  u.search = new URLSearchParams({client_id:cid,response_type:"code",
+    redirect_uri:SELF,scope:"playlist-modify-private playlist-modify-public playlist-read-private"});
+  location.href = u;
+};
+
+(async ()=>{
+  const code = new URLSearchParams(location.search).get("code");
+  if(!code) return;
+  const cid=sessionStorage.getItem("sp_cid"), sec=sessionStorage.getItem("sp_sec");
+  const out=$("result");
+  if(!cid||!sec){ out.innerHTML='<p class="warn">Came back from Spotify but the Client ID/Secret were lost — paste them again and press Connect.</p>'; return; }
+  out.innerHTML="<p>Exchanging code with Spotify…</p>";
+  try{
+    const r = await fetch("https://accounts.spotify.com/api/token",{
+      method:"POST",
+      headers:{"Content-Type":"application/x-www-form-urlencoded",
+        Authorization:"Basic "+btoa(cid+":"+sec)},
+      body:new URLSearchParams({grant_type:"authorization_code",code,redirect_uri:SELF})});
+    const js = await r.json();
+    if(js.refresh_token){
+      out.innerHTML = `<div class="out"><b style="color:#34C97B">Success — add these three
+        GitHub secrets</b> (repo → Settings → Secrets and variables → Actions):<br><br>
+        SPOTIFY_CLIENT_ID<br>${cid}<br><br>
+        SPOTIFY_CLIENT_SECRET<br>${sec}<br><br>
+        SPOTIFY_REFRESH_TOKEN<br>${js.refresh_token}</div>
+        <p class="warn">Treat these like passwords. Once saved as secrets you can
+        close this page; the playlist updates on the next daily run.</p>`;
+      history.replaceState(null,"",SELF);
+      sessionStorage.removeItem("sp_sec");
+    } else {
+      out.innerHTML = `<p class="warn">Spotify error: ${js.error_description||js.error||"unknown"}.
+        Check the Redirect URI exactly matches <code>${SELF}</code> and try again.</p>`;
+    }
+  }catch(e){ out.innerHTML = `<p class="warn">Network error: ${e.message}</p>`; }
+})();
+</script>
+</body>
+</html>

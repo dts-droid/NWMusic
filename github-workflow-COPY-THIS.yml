@@ -1,0 +1,59 @@
+# GigRadar NW - daily data refresh
+#
+# Runs automatically every morning AND whenever triggered manually:
+#   - from the app's "Refresh now" button (Settings tab)
+#   - or on GitHub: Actions tab -> "Update gigs" -> Run workflow
+
+name: Update gigs
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # 06:30 UTC daily (07:30 UK summer / 06:30 winter)
+  workflow_dispatch:        # enables the manual trigger button
+
+concurrency:
+  group: update-gigs
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch and dedupe gigs
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+          SKIDDLE_KEY: ${{ secrets.SKIDDLE_KEY }}
+          ENTS24_CLIENT_ID: ${{ secrets.ENTS24_CLIENT_ID }}
+          ENTS24_CLIENT_SECRET: ${{ secrets.ENTS24_CLIENT_SECRET }}
+          BANDSINTOWN_APP_ID: ${{ secrets.BANDSINTOWN_APP_ID }}
+        run: python scripts/fetch_gigs.py
+
+      - name: Update Spotify playlist (optional - skips if secrets unset)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python scripts/update_spotify.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "gigradar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Daily gig refresh"
+          git push
