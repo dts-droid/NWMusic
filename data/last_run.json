@@ -1,0 +1,32 @@
+{
+ "run_at": "2026-06-17T17:39:42.008670+00:00",
+ "sources": {
+  "ticketmaster": {
+   "status": "ok",
+   "events": 1375,
+   "note": ""
+  },
+  "skiddle": {
+   "status": "error",
+   "events": 0,
+   "note": "403 Client Error: Forbidden for url: https://www.skiddle.com/api/v1/events/search/?api_key=f095d8477f7f937bdc63198998917755&latitude=53.4808&longitude=-2.2426&r"
+  },
+  "ents24": {
+   "status": "skipped",
+   "events": 0,
+   "note": "no credentials"
+  },
+  "venue_pages": {
+   "status": "ok",
+   "events": 34,
+   "note": ""
+  },
+  "bandsintown": {
+   "status": "skipped",
+   "events": 0,
+   "note": "no app id"
+  }
+ },
+ "total_after_dedupe": 601,
+ "total_raw": 1409
+}
