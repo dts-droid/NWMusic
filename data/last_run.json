@@ -1,9 +1,9 @@
 {
- "run_at": "2026-06-24T15:39:13.133904+00:00",
+ "run_at": "2026-06-25T16:07:30.673742+00:00",
  "sources": {
   "ticketmaster": {
    "status": "ok",
-   "events": 1355,
+   "events": 1388,
    "note": ""
   },
   "skiddle": {
@@ -18,7 +18,7 @@
   },
   "venue_pages": {
    "status": "ok",
-   "events": 33,
+   "events": 32,
    "note": ""
   },
   "bandsintown": {
@@ -27,6 +27,6 @@
    "note": "no app id"
   }
  },
- "total_after_dedupe": 1220,
- "total_raw": 2588
+ "total_after_dedupe": 1237,
+ "total_raw": 2620
 }

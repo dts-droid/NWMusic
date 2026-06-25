@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-06-24T15:40:05.698754+00:00",
+ "generated_at": "2026-06-25T16:08:07.120038+00:00",
  "region": "North West England",
  "window_days": 120,
- "count": 1220,
+ "count": 1237,
  "sample": false,
  "gigs": [
   {
@@ -25,209 +25,6 @@
     }
    ],
    "id": "d35934a97675"
-  },
-  {
-   "title": "Elvis Costello & The Imposters with Charlie Sexton",
-   "artist": "Elvis Costello & the Imposters",
-   "date": "2026-06-24",
-   "time": "18:00:00",
-   "venue": "Palace Theatre Manchester",
-   "city": "Manchester",
-   "postcode": "M1 6FT",
-   "lat": 53.475138,
-   "lng": -2.240887,
-   "genres": [
-    "pop",
-    "rock"
-   ],
-   "image": "https://s1.ticketm.net/dam/a/23b/c491f624-7bc2-4299-815d-fbd78452f23b_SOURCE",
-   "sources": [
-    {
-     "name": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/elvis-costello-the-imposters-with-charlie-manchester-24-06-2026/event/360064598AC02C17",
-     "price": null
-    }
-   ],
-   "id": "f85467f0f7d8"
-  },
-  {
-   "title": "McFly- Official Ticket and Hotel Bundls",
-   "artist": "McFly",
-   "date": "2026-06-24",
-   "time": "18:00:00",
-   "venue": "The Piece Hall",
-   "city": "Halifax",
-   "postcode": "HX1 1RE",
-   "lat": 53.721432,
-   "lng": -1.85657,
-   "genres": [
-    "pop"
-   ],
-   "image": "https://s1.ticketm.net/dam/a/954/bf35859d-834a-40ad-a33c-363a8f58a954_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "sources": [
-    {
-     "name": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/mcfly-halifax-24-06-2026/event/350063428DE675CF",
-     "price": null
-    }
-   ],
-   "id": "75c551a34d27"
-  },
-  {
-   "title": "Hog!, Ghostship, Leif, and Glass Cities",
-   "artist": "Hog!, Ghostship, Leif, and Glass Cities",
-   "date": "2026-06-24",
-   "time": "18:30",
-   "venue": "The Rat And Pidgeon",
-   "city": "Manchester",
-   "postcode": "M1 1HP",
-   "lat": 53.4813835,
-   "lng": -2.2346662,
-   "genres": [],
-   "image": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Manchester/The-Rat-And-Pidgeon/Hog-Ghostship-Leif-and-Glass-Cities/42512547/",
-     "price": null
-    }
-   ],
-   "id": "ae74fd7a3251"
-  },
-  {
-   "title": "JohnsysShots Presents: Sean Morrell",
-   "artist": "JohnsysShots Presents",
-   "date": "2026-06-24",
-   "time": "19:00",
-   "venue": "The Jacaranda Club",
-   "city": "Liverpool",
-   "postcode": "L1 4BW",
-   "lat": 53.402438,
-   "lng": -2.979623,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/d/2/3/2276897_69454785_JohnsysShots-Presents--Sean-Morrell.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Jacaranda-Club/JohnsysShots-Presents-Sean-Morrell/42474825/",
-     "price": null
-    }
-   ],
-   "id": "177564f717fa"
-  },
-  {
-   "title": "Andrew Cushin at The Parish Wrexham",
-   "artist": "Andrew Cushin at The Parish Wrexham",
-   "date": "2026-06-24",
-   "time": "19:00",
-   "venue": "The Parish Wrexham",
-   "city": "Wrexham",
-   "postcode": "LL13 8NA",
-   "lat": 53.0444725,
-   "lng": -2.9940884,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/4/f/4/2248174_a943ba4b_andrew-cushin-at-the-parish-wrexham.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Wrexham/The-Parish-Wrexham/Andrew-Cushin-at-The-Parish-Wrexham/42343596/",
-     "price": null
-    }
-   ],
-   "id": "d8fce6632013"
-  },
-  {
-   "title": "Captivate Presents Industry Shaker",
-   "artist": "Captivate",
-   "date": "2026-06-24",
-   "time": "19:00",
-   "venue": "Arts Bar Hope Street",
-   "city": "Liverpool",
-   "postcode": "L1 9BY",
-   "lat": 53.4027562,
-   "lng": -2.9705011,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/a/b/8/2281814_984edc53_captivate-presents-industry-shaker.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/Arts-Bar-Hope-Street/Captivate-Presents-Industry-Shaker/42489720/",
-     "price": null
-    }
-   ],
-   "id": "35dc5f149796"
-  },
-  {
-   "title": "Sierra Ferrell",
-   "artist": "Sierra Ferrell",
-   "date": "2026-06-24",
-   "time": "19:00:00",
-   "venue": "Manchester Academy",
-   "city": "Manchester",
-   "postcode": "M13 9PR",
-   "lat": 53.464386,
-   "lng": -2.232225,
-   "genres": [
-    "country"
-   ],
-   "image": "https://s1.ticketm.net/dam/a/a79/b1e9f605-2cf3-40e4-8c47-d2ee394d0a79_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "sources": [
-    {
-     "name": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/sierra-ferrell-manchester-24-06-2026/event/1F00644379E50FC0",
-     "price": null
-    }
-   ],
-   "id": "3cea8b9c2314"
-  },
-  {
-   "title": "The Hermit: Live at the Quarry Liverpool",
-   "artist": "The Hermit",
-   "date": "2026-06-24",
-   "time": "19:30",
-   "venue": "The Quarry, Liverpool",
-   "city": "Liverpool",
-   "postcode": "L3 7DD",
-   "lat": 53.4171669,
-   "lng": -2.9946862,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/7/9/0/2283581_b9e03d09_the-hermit-live-at-the-quarry-liverpool.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Quarry%2C-Liverpool/The-Hermit-Live-at-the-Quarry-Liverpool/42498063/",
-     "price": null
-    }
-   ],
-   "id": "efb4b0446c3e"
-  },
-  {
-   "title": "Pinhani",
-   "artist": "Pinhani",
-   "date": "2026-06-24",
-   "time": "20:00:00",
-   "venue": "Arts Club",
-   "city": "Liverpool",
-   "postcode": "L1 4BH",
-   "lat": 53.401673,
-   "lng": -2.978469,
-   "genres": [
-    "folk"
-   ],
-   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "sources": [
-    {
-     "name": "Ticketmaster",
-     "url": "https://www.universe.com/events/pinhani-tickets-SVJMF7?ref=ticketmaster",
-     "price": null
-    },
-    {
-     "name": "Venue site",
-     "url": "https://www.arts-club-liverpool.com/event/pinhani/",
-     "price": null
-    }
-   ],
-   "id": "1ef0d25a1bde"
   },
   {
    "title": "Barbarism",
@@ -404,27 +201,6 @@
    "id": "88e586ef22fa"
   },
   {
-   "title": "KOJ presents... TRiBE: 'Punk Panther' Single Launch",
-   "artist": "KOJ presents... TRiBE",
-   "date": "2026-06-25",
-   "time": "19:00",
-   "venue": "24 Kitchen Street",
-   "city": "Liverpool",
-   "postcode": "L1 0AN",
-   "lat": 53.39704,
-   "lng": -2.982373,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/0/4/5/2270869_7c49e0d4_koj-presents-tribe-punk-panther-single-launch.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/24-Kitchen-Street/KOJ-presents-TRiBE-Punk-Panther-Single-Launch/42452283/",
-     "price": null
-    }
-   ],
-   "id": "3c8fac5f2ad8"
-  },
-  {
    "title": "Red Rodeo Club",
    "artist": "Red Rodeo Club",
    "date": "2026-06-25",
@@ -444,6 +220,27 @@
     }
    ],
    "id": "663314ce77f3"
+  },
+  {
+   "title": "KOJ presents... TRiBE: 'Punk Panther' Single Launch",
+   "artist": "KOJ presents... TRiBE",
+   "date": "2026-06-25",
+   "time": "19:00",
+   "venue": "24 Kitchen Street",
+   "city": "Liverpool",
+   "postcode": "L1 0AN",
+   "lat": 53.39704,
+   "lng": -2.982373,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/0/4/5/2270869_7c49e0d4_koj-presents-tribe-punk-panther-single-launch.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/24-Kitchen-Street/KOJ-presents-TRiBE-Punk-Panther-Single-Launch/42452283/",
+     "price": null
+    }
+   ],
+   "id": "3c8fac5f2ad8"
   },
   {
    "title": "The Black Crowes",
@@ -657,6 +454,27 @@
    "id": "ace64569da12"
   },
   {
+   "title": "Sounds Familiar Music Quiz",
+   "artist": "Sounds Familiar Music Quiz",
+   "date": "2026-06-26",
+   "time": "17:00",
+   "venue": "Arts Club",
+   "city": "Liverpool",
+   "postcode": "",
+   "lat": null,
+   "lng": null,
+   "genres": [],
+   "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzUvMTkvOC8zMy83LzU4My9SYWNrTXVsdGlwYXJ0MjAyNjA1MTktNjAtMWppY2tqZS5qcGciXV0",
+   "sources": [
+    {
+     "name": "Venue site",
+     "url": "https://www.arts-club-liverpool.com/event/sounds-familiar-music-quiz/",
+     "price": null
+    }
+   ],
+   "id": "61f8e030a9a4"
+  },
+  {
    "title": "Everywhere All At Once Festival with Leader Thrash",
    "artist": "Everywhere All At Once Festival with Leader Thrash",
    "date": "2026-06-26",
@@ -697,27 +515,6 @@
     }
    ],
    "id": "e5ecfc9c50ac"
-  },
-  {
-   "title": "Sounds Familiar Music Quiz",
-   "artist": "Sounds Familiar Music Quiz",
-   "date": "2026-06-26",
-   "time": "18:00",
-   "venue": "Arts Club",
-   "city": "Liverpool",
-   "postcode": "",
-   "lat": null,
-   "lng": null,
-   "genres": [],
-   "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzUvMTkvOC8zMy83LzU4My9SYWNrTXVsdGlwYXJ0MjAyNjA1MTktNjAtMWppY2tqZS5qcGciXV0",
-   "sources": [
-    {
-     "name": "Venue site",
-     "url": "https://www.arts-club-liverpool.com/event/sounds-familiar-music-quiz/",
-     "price": null
-    }
-   ],
-   "id": "61f8e030a9a4"
   },
   {
    "title": "EVERYWHERE AT ONCE: EVERYTHING EVERYWHERE SHOWCASE",
@@ -2425,27 +2222,6 @@
    "id": "1dd5b5237f49"
   },
   {
-   "title": "JohnsysShots Presents: San Elara",
-   "artist": "JohnsysShots Presents",
-   "date": "2026-06-27",
-   "time": "19:00",
-   "venue": "The Shipping Forecast",
-   "city": "Liverpool",
-   "postcode": "L1 4BW",
-   "lat": 53.402519,
-   "lng": -2.979338,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/8/2/1/2265291_34658352_JohnsysShots-Presents--San-Elara.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-San-Elara/42428279/",
-     "price": null
-    }
-   ],
-   "id": "7f97172c811b"
-  },
-  {
    "title": "Elton John Performed LIVE in Liverpool Camp and Furnace",
    "artist": "Elton John Performed LIVE in Liverpool Camp and Furnace",
    "date": "2026-06-27",
@@ -2465,6 +2241,27 @@
     }
    ],
    "id": "26bed6d683da"
+  },
+  {
+   "title": "JohnsysShots Presents: San Elara",
+   "artist": "JohnsysShots Presents",
+   "date": "2026-06-27",
+   "time": "19:00",
+   "venue": "The Shipping Forecast",
+   "city": "Liverpool",
+   "postcode": "L1 4BW",
+   "lat": 53.402519,
+   "lng": -2.979338,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/8/2/1/2265291_34658352_JohnsysShots-Presents--San-Elara.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-San-Elara/42428279/",
+     "price": null
+    }
+   ],
+   "id": "7f97172c811b"
   },
   {
    "title": "Doppelg\u00e4nger at The Rockin Chair",
@@ -2488,27 +2285,6 @@
    "id": "48dbd1238348"
   },
   {
-   "title": "One Night In Vegas",
-   "artist": "One Night In Vegas",
-   "date": "2026-06-27",
-   "time": "19:00",
-   "venue": "The Florrie",
-   "city": "Liverpool",
-   "postcode": "L8 4RF",
-   "lat": 53.383455,
-   "lng": -2.968546,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/9/7/1/2224881_53b66858_one-night-in-vegas.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Florrie-/One-Night-In-Vegas/42250478/",
-     "price": null
-    }
-   ],
-   "id": "3a13bd2fcf53"
-  },
-  {
    "title": "Meekz: Album Launch Show (14+ with an Adult)",
    "artist": "Meekz",
    "date": "2026-06-27",
@@ -2528,6 +2304,27 @@
     }
    ],
    "id": "d6070dac0d79"
+  },
+  {
+   "title": "One Night In Vegas",
+   "artist": "One Night In Vegas",
+   "date": "2026-06-27",
+   "time": "19:00",
+   "venue": "The Florrie",
+   "city": "Liverpool",
+   "postcode": "L8 4RF",
+   "lat": 53.383455,
+   "lng": -2.968546,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/9/7/1/2224881_53b66858_one-night-in-vegas.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Florrie-/One-Night-In-Vegas/42250478/",
+     "price": null
+    }
+   ],
+   "id": "3a13bd2fcf53"
   },
   {
    "title": "The Flatlanders @ Garstang Summer Festival",
@@ -4354,6 +4151,27 @@
    "id": "66890acd75ce"
   },
   {
+   "title": "MIST Presents... So, Reverie & Ambers + Cain Garcia",
+   "artist": "MIST Presents... So, Reverie & Ambers",
+   "date": "2026-07-02",
+   "time": "19:30",
+   "venue": "The Jacaranda Club",
+   "city": "Liverpool",
+   "postcode": "L1 4BW",
+   "lat": 53.402438,
+   "lng": -2.979623,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/d/7/c/2294242_9f9ca365_mist-presents-so-reverie-ambers-cain-garcia.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Jacaranda-Club/MIST-Presents-So-Reverie--Ambers--Cain-Garcia/42536217/",
+     "price": null
+    }
+   ],
+   "id": "f3bf5643756a"
+  },
+  {
    "title": "RUNNNER",
    "artist": "Runnner",
    "date": "2026-07-02",
@@ -5128,6 +4946,30 @@
    "id": "ed509988b2cd"
   },
   {
+   "title": "Kings of Leon",
+   "artist": "Kings of Leon",
+   "date": "2026-07-04",
+   "time": "18:00:00",
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "postcode": "M11 3DU",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/561/e9fbce5a-a0fe-4a0a-9c2d-d95f088e9561_RETINA_PORTRAIT_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/kings-of-leon-manchester-04-07-2026/event/3700636DBBC76516",
+     "price": null
+    }
+   ],
+   "id": "72cedeba2083"
+  },
+  {
    "title": "James Arthur- Official Ticket and Hotel Bundls",
    "artist": "James Arthur",
    "date": "2026-07-04",
@@ -5379,7 +5221,7 @@
    "sources": [
     {
      "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-Going-Coastal/42474820/",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-Going-Coastal/42535938/",
      "price": null
     }
    ],
@@ -5495,30 +5337,6 @@
     }
    ],
    "id": "d2d63cc728a9"
-  },
-  {
-   "title": "Kings of Leon",
-   "artist": "Kings of Leon",
-   "date": "2026-07-04",
-   "time": "19:30:00",
-   "venue": "Co-op Live",
-   "city": "Manchester",
-   "postcode": "M11 3DU",
-   "lat": 53.48661136,
-   "lng": -2.1995797,
-   "genres": [
-    "pop",
-    "rock"
-   ],
-   "image": "https://s1.ticketm.net/dam/a/561/e9fbce5a-a0fe-4a0a-9c2d-d95f088e9561_RETINA_PORTRAIT_16_9.jpg",
-   "sources": [
-    {
-     "name": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/kings-of-leon-manchester-04-07-2026/event/3700636DBBC76516",
-     "price": null
-    }
-   ],
-   "id": "72cedeba2083"
   },
   {
    "title": "Pistol Whipped (Sex Pistols Tribute) plus guests",
@@ -6628,7 +6446,7 @@
    "lat": 53.3936539,
    "lng": -2.97772283,
    "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/d/d/2/2289613_d2b1a2c3_noisy-showcase-live-.jpg",
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/d/d/2/2289613_d3b4d242_noisy-showcase-live-.jpg",
    "sources": [
     {
      "name": "Skiddle",
@@ -7318,7 +7136,7 @@
    "id": "d9d5d23ae8be"
   },
   {
-   "title": "GirlyPop Live - Zara Larsson Theme | Freight Island, Manchester",
+   "title": "GirlyPop Live - Zara Larson Takeover | Freight Island, MCR",
    "artist": "GirlyPop Live",
    "date": "2026-07-12",
    "time": "12:00",
@@ -7332,7 +7150,7 @@
    "sources": [
     {
      "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Manchester/Freight-Island/GirlyPop-Live---Zara-Larsson-Theme--Freight-Island-Manchester/42365998/",
+     "url": "https://www.skiddle.com/whats-on/Manchester/Freight-Island/GirlyPop-Live---Zara-Larson-Takeover--Freight-Island-MCR/42365998/",
      "price": null
     }
    ],
@@ -8369,6 +8187,27 @@
    "id": "9293e0719605"
   },
   {
+   "title": "Outer Circle Drive + Nathan Appleton The Start EP Launch",
+   "artist": "Outer Circle Drive",
+   "date": "2026-07-17",
+   "time": "19:30",
+   "venue": "Tank Bar St Helens",
+   "city": "St Helens",
+   "postcode": "WA10 1QA",
+   "lat": 53.4533495,
+   "lng": -2.7405479,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/8/5/f/2294347_785d9206_outer-circle-drive-nathan-appleton-the-start-ep-launch.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/StHelens/Tank-Bar-St-Helens/Outer-Circle-Drive--Nathan-Appleton-The-Start-EP-Launch/42541440/",
+     "price": null
+    }
+   ],
+   "id": "d8684cff4099"
+  },
+  {
    "title": "The Cavern Club Beatles  - Live Tribute Show",
    "artist": "The Cavern Club Beatles",
    "date": "2026-07-17",
@@ -8558,27 +8397,6 @@
    "id": "f5d2552ffc84"
   },
   {
-   "title": "Groovin @ Bar 83",
-   "artist": "Groovin @ Bar 83",
-   "date": "2026-07-18",
-   "time": "15:00",
-   "venue": "Bar 83 Golbourne",
-   "city": "Warrington",
-   "postcode": "WA3 3BU",
-   "lat": 53.4767005,
-   "lng": -2.5965929,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/2/2/f/2288309_d7c6161e_groovin-bar-83.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Warrington/Bar-83-Golbourne/Groovin--Bar-83/42513139/",
-     "price": null
-    }
-   ],
-   "id": "2d5fc95a9eca"
-  },
-  {
    "title": "MancUnion plus special guests at Elton Liberal Club",
    "artist": "MancUnion",
    "date": "2026-07-18",
@@ -8598,6 +8416,27 @@
     }
    ],
    "id": "196a97d8ac38"
+  },
+  {
+   "title": "Groovin @ Bar 83",
+   "artist": "Groovin @ Bar 83",
+   "date": "2026-07-18",
+   "time": "15:00",
+   "venue": "Bar 83 Golbourne",
+   "city": "Warrington",
+   "postcode": "WA3 3BU",
+   "lat": 53.4767005,
+   "lng": -2.5965929,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/2/2/f/2288309_d7c6161e_groovin-bar-83.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Warrington/Bar-83-Golbourne/Groovin--Bar-83/42513139/",
+     "price": null
+    }
+   ],
+   "id": "2d5fc95a9eca"
   },
   {
    "title": "An Afternoon of Indie MANCHESTER - Indie for the over 30s, 3pm-7pm",
@@ -9376,7 +9215,7 @@
     "pop",
     "rock"
    ],
-   "image": "https://s1.ticketm.net/dam/a/059/5ed53e08-2afc-4ff1-9d08-36c3caa55059_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/a/059/5ed53e08-2afc-4ff1-9d08-36c3caa55059_SOURCE",
    "sources": [
     {
      "name": "Ticketmaster",
@@ -9691,6 +9530,30 @@
    "id": "65342872a541"
   },
   {
+   "title": "Feeder | Blackpool, Winter Gardens",
+   "artist": "Feeder",
+   "date": "2026-07-24",
+   "time": "17:00:00",
+   "venue": "Blackpool Winter Gardens",
+   "city": "Blackpool",
+   "postcode": "FY1 1HU",
+   "lat": 53.817668,
+   "lng": -3.051569,
+   "genres": [
+    "alternative rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/feeder-blackpool-winter-gardens-tickets-4WYNZF?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "0a57cbdaf5f1"
+  },
+  {
    "title": "Liverpool's Pride Opening Party",
    "artist": "Liverpool's Pride Opening Party",
    "date": "2026-07-24",
@@ -9752,6 +9615,27 @@
     }
    ],
    "id": "541b54532bd3"
+  },
+  {
+   "title": "RAE MORRIS + guests tba // The Ferret is 20!",
+   "artist": "RAE MORRIS",
+   "date": "2026-07-24",
+   "time": "19:00",
+   "venue": "The Ferret",
+   "city": "Preston",
+   "postcode": "PR1 2XQ",
+   "lat": 53.763975,
+   "lng": -2.709592,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/7/0/b/2292515_0210aa67_rae-morris-guests-tba-the-ferret-is-20-.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Preston/The-Ferret/RAE-MORRIS--guests-tba--The-Ferret-is-20/42530577/",
+     "price": null
+    }
+   ],
+   "id": "46b4a342e761"
   },
   {
    "title": "Asa Murphy's Summer Fundraiser",
@@ -10605,6 +10489,27 @@
    "id": "b638be8e3ab1"
   },
   {
+   "title": "JohnsysShots Presents: Going Coastal",
+   "artist": "JohnsysShots Presents",
+   "date": "2026-07-25",
+   "time": "19:00",
+   "venue": "The Shipping Forecast",
+   "city": "Liverpool",
+   "postcode": "L1 4BW",
+   "lat": 53.402519,
+   "lng": -2.979338,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/0/9/4/2294139_85031211_JohnsysShots-Presents--Going-Coastal.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-Going-Coastal/42535938/",
+     "price": null
+    }
+   ],
+   "id": "77162889913d"
+  },
+  {
    "title": "KERB Productions Presents: Tom Collins Live at The Jacaranda",
    "artist": "KERB Productions Presents",
    "date": "2026-07-25",
@@ -10645,27 +10550,6 @@
     }
    ],
    "id": "6a06ccd6fd12"
-  },
-  {
-   "title": "JohnsysShots Presents: Going Coastal",
-   "artist": "JohnsysShots Presents",
-   "date": "2026-07-25",
-   "time": "19:00",
-   "venue": "The Shipping Forecast",
-   "city": "Liverpool",
-   "postcode": "L1 4BW",
-   "lat": 53.402519,
-   "lng": -2.979338,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/0/9/4/2294139_85031211_JohnsysShots-Presents--Going-Coastal.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Shipping-Forecast/JohnsysShots-Presents-Going-Coastal/42535938/",
-     "price": null
-    }
-   ],
-   "id": "77162889913d"
   },
   {
    "title": "Guns 2 Roses + Wrong Jovi + AC/DC Reborn",
@@ -11525,27 +11409,6 @@
    "id": "7f91617256cb"
   },
   {
-   "title": "Die Tonight",
-   "artist": "Die Tonight",
-   "date": "2026-07-31",
-   "time": "19:00",
-   "venue": "Kaz Stockroom",
-   "city": "Liverpool",
-   "postcode": "L1 4BE",
-   "lat": 53.4028985,
-   "lng": -2.9816637,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/6/3/2/2261111_6b4cc458_die-tonight.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Liverpool/Kaz-Stockroom/Die-Tonight/42411002/",
-     "price": null
-    }
-   ],
-   "id": "810d70b5add9"
-  },
-  {
    "title": "BOSS PRIESTER x TWO2TWO - Open air rooftop",
    "artist": "BOSS PRIESTER x TWO2TWO",
    "date": "2026-07-31",
@@ -11565,6 +11428,27 @@
     }
    ],
    "id": "52372777ff16"
+  },
+  {
+   "title": "Die Tonight",
+   "artist": "Die Tonight",
+   "date": "2026-07-31",
+   "time": "19:00",
+   "venue": "Kaz Stockroom",
+   "city": "Liverpool",
+   "postcode": "L1 4BE",
+   "lat": 53.4028985,
+   "lng": -2.9816637,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/6/3/2/2261111_6b4cc458_die-tonight.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/Kaz-Stockroom/Die-Tonight/42411002/",
+     "price": null
+    }
+   ],
+   "id": "810d70b5add9"
   },
   {
    "title": "Johnny Cash & June Carter Performed Live by Johnny Cash Roadshow",
@@ -12086,27 +11970,6 @@
    "id": "451f8fcee713"
   },
   {
-   "title": "Green Day and Avril Lavigne | Pop Punk Night, Elevation13, Hyde",
-   "artist": "Green Day and Avril Lavigne | Pop Punk Night, Elevation13, Hyde",
-   "date": "2026-08-01",
-   "time": "19:00",
-   "venue": "Elevation13",
-   "city": "Hyde",
-   "postcode": "SK14 1BA",
-   "lat": 53.4525323,
-   "lng": -2.0819125,
-   "genres": [],
-   "image": "https://d31fr2pwly4c4s.cloudfront.net/b/c/2/2261309_11dd1681_green-day-and-avril-lavigne-pop-punk-night-elevation13-hyde.jpg",
-   "sources": [
-    {
-     "name": "Skiddle",
-     "url": "https://www.skiddle.com/whats-on/Stockport/Elevation13/Green-Day-and-Avril-Lavigne--Pop-Punk-Night-Elevation13-Hyde/42412479/",
-     "price": null
-    }
-   ],
-   "id": "c179d5e61f1a"
-  },
-  {
    "title": "Vio-lence Blitz Preston 01/08/2026",
    "artist": "Vio-lence Blitz Preston 01/08/2026",
    "date": "2026-08-01",
@@ -12126,6 +11989,27 @@
     }
    ],
    "id": "b3502ce674fa"
+  },
+  {
+   "title": "Green Day and Avril Lavigne | Pop Punk Night, Elevation13, Hyde",
+   "artist": "Green Day and Avril Lavigne | Pop Punk Night, Elevation13, Hyde",
+   "date": "2026-08-01",
+   "time": "19:00",
+   "venue": "Elevation13",
+   "city": "Hyde",
+   "postcode": "SK14 1BA",
+   "lat": 53.4525323,
+   "lng": -2.0819125,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/b/c/2/2261309_11dd1681_green-day-and-avril-lavigne-pop-punk-night-elevation13-hyde.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Stockport/Elevation13/Green-Day-and-Avril-Lavigne--Pop-Punk-Night-Elevation13-Hyde/42412479/",
+     "price": null
+    }
+   ],
+   "id": "c179d5e61f1a"
   },
   {
    "title": "Hayloft Hoedown #2",
@@ -14489,6 +14373,27 @@
    "id": "327404997971"
   },
   {
+   "title": "Kris Barras Band: Live Performance + Signing",
+   "artist": "Kris Barras Band",
+   "date": "2026-08-20",
+   "time": "19:00",
+   "venue": "The Jacaranda Club",
+   "city": "Liverpool",
+   "postcode": "L1 4BW",
+   "lat": 53.402438,
+   "lng": -2.979623,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/a/4/1/2290227_21590f02_kris-barras-band-album-launch-show.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Liverpool/The-Jacaranda-Club/Kris-Barras-Band-Live-Performance--Signing/42521523/",
+     "price": null
+    }
+   ],
+   "id": "c2a6e150b8ec"
+  },
+  {
    "title": "Greg Freeman",
    "artist": "Greg Freeman",
    "date": "2026-08-20",
@@ -15490,7 +15395,7 @@
     "pop",
     "rock"
    ],
-   "image": "https://s1.ticketm.net/dam/a/8e2/8a55ecd3-85b2-490c-9cf6-0b3af8edd8e2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/a/8e2/8a55ecd3-85b2-490c-9cf6-0b3af8edd8e2_TABLET_LANDSCAPE_16_9.jpg",
    "sources": [
     {
      "name": "Ticketmaster",
@@ -15891,6 +15796,30 @@
     }
    ],
    "id": "bff8ab687bb4"
+  },
+  {
+   "title": "The Enemy | Blackpool, Winter Gardens",
+   "artist": "The Enemy",
+   "date": "2026-08-28",
+   "time": "17:00:00",
+   "venue": "Blackpool Winter Gardens",
+   "city": "Blackpool",
+   "postcode": "FY1 1HU",
+   "lat": 53.817668,
+   "lng": -3.051569,
+   "genres": [
+    "alternative rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/the-enemy-blackpool-winter-gardens-tickets-SCWXQ5?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "5b38b1a53b18"
   },
   {
    "title": "Bastille - Official Ticket and Hotel Bundls",
@@ -17089,6 +17018,27 @@
    "id": "383281ce825e"
   },
   {
+   "title": "BEN OTTEWELL (Gomez) | Carlton Club Whalley Range | Thu 3rd Sept",
+   "artist": "BEN OTTEWELL (Gomez) | Carlton Club Whalley Range | Thu 3rd Sept",
+   "date": "2026-09-03",
+   "time": "19:00",
+   "venue": "The Carlton Club Manchester",
+   "city": "Manchester",
+   "postcode": "M16 8BE",
+   "lat": 53.451754,
+   "lng": -2.263254,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/7/9/b/2294323_5f030afd_ben-ottewell-gomez-carlton-club-whalley-range-thu-3rd-sept.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Manchester/The-Carlton-Club-Manchester/BEN-OTTEWELL-Gomez--Carlton-Club-Whalley-Range--Thu-3rd-Sept/42539876/",
+     "price": null
+    }
+   ],
+   "id": "43c85f5cce79"
+  },
+  {
    "title": "TV Smith Pete Bentham @ Hobo Kiosk, Liverpool",
    "artist": "TV Smith Pete Bentham @ Hobo Kiosk, Liverpool",
    "date": "2026-09-03",
@@ -17334,6 +17284,27 @@
     }
    ],
    "id": "e5250052549b"
+  },
+  {
+   "title": "Arrested Development",
+   "artist": "Arrested Development",
+   "date": "2026-09-04",
+   "time": "19:00",
+   "venue": "Band On The Wall",
+   "city": "Manchester",
+   "postcode": "M4 5JZ",
+   "lat": 53.485227,
+   "lng": -2.234386,
+   "genres": [],
+   "image": "https://d31fr2pwly4c4s.cloudfront.net/6/c/9/2294726_5279d9e4_arrested-development.jpg",
+   "sources": [
+    {
+     "name": "Skiddle",
+     "url": "https://www.skiddle.com/whats-on/Manchester/Band-On-The-Wall/Arrested-Development/42542983/",
+     "price": null
+    }
+   ],
+   "id": "c1c8c590ff93"
   },
   {
    "title": "Sounds Of The 60\u2019s",
@@ -19455,6 +19426,30 @@
    "id": "cb8ce2d9b30d"
   },
   {
+   "title": "Cast | Blackpool, Winter Gardens",
+   "artist": "Cast",
+   "date": "2026-09-12",
+   "time": "17:00:00",
+   "venue": "Blackpool Winter Gardens",
+   "city": "Blackpool",
+   "postcode": "FY1 1HU",
+   "lat": 53.817668,
+   "lng": -3.051569,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/cast-blackpool-winter-gardens-tickets-9C2KLJ?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "ecdce6a098b0"
+  },
+  {
    "title": "Primal Scream: XTRMNTR",
    "artist": "Primal Scream",
    "date": "2026-09-12",
@@ -20512,6 +20507,30 @@
    "id": "821eb504173a"
   },
   {
+   "title": "Doves | Blackpool, Winter Gardens",
+   "artist": "Doves",
+   "date": "2026-09-18",
+   "time": "17:00:00",
+   "venue": "Blackpool Winter Gardens",
+   "city": "Blackpool",
+   "postcode": "FY1 1HU",
+   "lat": 53.817668,
+   "lng": -3.051569,
+   "genres": [
+    "alternative rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/doves-blackpool-winter-gardens-tickets-P1C56L?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "97c3f7c8b726"
+  },
+  {
    "title": "The Molotovs",
    "artist": "The Molotovs",
    "date": "2026-09-18",
@@ -20985,6 +21004,30 @@
    "id": "20395b82cc57"
   },
   {
+   "title": "The Pigeon Detectives | Blackpool, Winter Gardens",
+   "artist": "The Pigeon Detectives",
+   "date": "2026-09-19",
+   "time": "17:00:00",
+   "venue": "Blackpool Winter Gardens",
+   "city": "Blackpool",
+   "postcode": "FY1 1HU",
+   "lat": 53.817668,
+   "lng": -3.051569,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/the-pigeon-detectives-blackpool-winter-gardens-tickets-XGNRTS?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "abf2fc906405"
+  },
+  {
    "title": "PorkPie",
    "artist": "PorkPie",
    "date": "2026-09-19",
@@ -21333,7 +21376,7 @@
    "id": "473e75546ab4"
   },
   {
-   "title": "Whitney Queen of the Night",
+   "title": "Queen of the Night - A Tribute to Whitney Houston",
    "artist": "Whitney Queen of the Night",
    "date": "2026-09-19",
    "time": "19:30:00",
@@ -21350,7 +21393,7 @@
    "sources": [
     {
      "name": "Ticketmaster",
-     "url": "https://www.ticketmaster.co.uk/whitney-queen-of-the-night-manchester-19-09-2026/event/3600647492F03C6A",
+     "url": "https://www.ticketmaster.co.uk/queen-of-the-night-a-tribute-manchester-19-09-2026/event/3600647492F03C6A",
      "price": null
     }
    ],
@@ -24149,7 +24192,7 @@
     "electro pop",
     "pop"
    ],
-   "image": "https://s1.ticketm.net/dam/a/d5e/eeadb8a0-b9c9-47dd-b05c-83a065189d5e_RETINA_PORTRAIT_16_9.jpg",
+   "image": "https://s1.ticketm.net/dam/a/be3/2417c539-f5f3-49e2-a1fd-bf83e4c69be3_TABLET_LANDSCAPE_16_9.jpg",
    "sources": [
     {
      "name": "Ticketmaster",
@@ -26866,6 +26909,30 @@
    "id": "bb897187e060"
   },
   {
+   "title": "Brandon Flowers",
+   "artist": "Brandon Flowers",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "venue": "O2 Apollo Manchester",
+   "city": "Manchester",
+   "postcode": "M12 6AP",
+   "lat": 53.469422,
+   "lng": -2.221964,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/92f/d2a3974f-af4d-4363-81f5-5ae60007592f_RETINA_PORTRAIT_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/brandon-flowers-manchester-20-10-2026/event/360064D7DDAFCF29",
+     "price": null
+    }
+   ],
+   "id": "4cccf0a4e84c"
+  },
+  {
    "title": "Steve Hackett - Best of Genesis & Solo Gems",
    "artist": "Steve Hackett",
    "date": "2026-10-20",
@@ -27151,6 +27218,339 @@
     }
    ],
    "id": "4aab70727bef"
+  },
+  {
+   "title": "nimino",
+   "artist": "nimino",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "venue": "Manchester New Century Hall",
+   "city": "Manchester",
+   "postcode": "M44AH",
+   "lat": 53.486725,
+   "lng": -2.239563,
+   "genres": [
+    "electro pop",
+    "pop"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/8f5/97c0ccab-9242-42d5-91db-56f50baee8f5_RETINA_LANDSCAPE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/nimino-manchester-23-10-2026/event/370064C8F13A5896",
+     "price": null
+    }
+   ],
+   "id": "97051223e9f3"
+  },
+  {
+   "title": "Duran Duran",
+   "artist": "Duran Duran",
+   "date": "2026-10-23",
+   "time": "18:00:00",
+   "venue": "M&S Bank Arena Liverpool",
+   "city": "Liverpool",
+   "postcode": "L3 4FP",
+   "lat": 53.39702,
+   "lng": -2.990063,
+   "genres": [
+    "alternative rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/c20/d80eae4f-8d81-4560-a16e-e629c2b78c20_TABLET_LANDSCAPE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/duran-duran-liverpool-23-10-2026/event/370064BCC12458BA",
+     "price": null
+    }
+   ],
+   "id": "3490cc1c1b3b"
+  },
+  {
+   "title": "The Proclaimers",
+   "artist": "The Proclaimers",
+   "date": "2026-10-23",
+   "time": "18:30:00",
+   "venue": "O2 Apollo Manchester",
+   "city": "Manchester",
+   "postcode": "M12 6AP",
+   "lat": 53.469422,
+   "lng": -2.221964,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/4e6/8de09a31-9c43-4f47-b395-2d68e48984e6_RETINA_PORTRAIT_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/the-proclaimers-manchester-23-10-2026/event/36006372E63BC8D0",
+     "price": null
+    }
+   ],
+   "id": "583b8c287ca2"
+  },
+  {
+   "title": "GoldFord",
+   "artist": "GoldFord",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "O2 Ritz Manchester",
+   "city": "Manchester",
+   "postcode": "M1 5NQ",
+   "lat": 53.474423,
+   "lng": -2.243098,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/06d/9fc7df13-45e3-401d-97b5-5eb38d8dc06d_SOURCE",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/goldford-manchester-23-10-2026/event/3E0064CCC44397DB",
+     "price": null
+    }
+   ],
+   "id": "08486db4bce2"
+  },
+  {
+   "title": "Khalid: It's Always Summer Somewhere Tour",
+   "artist": "Khalid",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "Aviva Studios - Warehouse",
+   "city": "Manchester",
+   "postcode": "M3 4JQ",
+   "lat": 53.48008,
+   "lng": -2.25446,
+   "genres": [
+    "r&b"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/517/65d11b07-e18b-48a7-a70b-a6dc7f8c8517_TABLET_LANDSCAPE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/khalid-its-always-summer-somewhere-tour-manchester-23-10-2026/event/35006471C28C54FF",
+     "price": null
+    }
+   ],
+   "id": "68089e7e6226"
+  },
+  {
+   "title": "Kita Alexander",
+   "artist": "Kita Alexander",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "Manchester The Deaf Institute.",
+   "city": "Manchester",
+   "postcode": "M1 7HE",
+   "lat": 53.47014,
+   "lng": -2.236159,
+   "genres": [
+    "pop"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/118/94d1b253-eb46-4bb6-a804-11853c9fb118_RETINA_PORTRAIT_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/kita-alexander-manchester-23-10-2026/event/1F00648DCF533D18",
+     "price": null
+    }
+   ],
+   "id": "25d074a77788"
+  },
+  {
+   "title": "KHAKIKID",
+   "artist": "Khakikid",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "Manchester The Deaf Institute.",
+   "city": "Manchester",
+   "postcode": "M1 7HE",
+   "lat": 53.47014,
+   "lng": -2.236159,
+   "genres": [
+    "hip-hop/rap",
+    "trap"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/c10/dd961f4a-bea9-4797-ad45-91ca70dbec10_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/khakikid-manchester-23-10-2026/event/1F006498AD7A4704",
+     "price": null
+    }
+   ],
+   "id": "2b9c91005efb"
+  },
+  {
+   "title": "Antony Szmierek",
+   "artist": "Antony Szmierek",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "Manchester Academy",
+   "city": "Manchester",
+   "postcode": "M13 9PR",
+   "lat": 53.464386,
+   "lng": -2.232225,
+   "genres": [
+    "alternative rap",
+    "hip-hop/rap"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/2d4/88b47ca0-0198-4a96-b6b0-156a660ed2d4_RETINA_PORTRAIT_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/antony-szmierek-tickets-S0H87Y?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "d46790168780"
+  },
+  {
+   "title": "The Mary Wallopers",
+   "artist": "The Mary Wallopers",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "O2 Victoria Warehouse Manchester",
+   "city": "Manchester",
+   "postcode": "M17 1AB",
+   "lat": 53.4643707,
+   "lng": -2.2853054,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/1f3/224dade8-7632-44d1-a415-f8d51d6511f3_TABLET_LANDSCAPE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/the-mary-wallopers-manchester-23-10-2026/event/3E0064C3A0174C02",
+     "price": null
+    }
+   ],
+   "id": "bc1b658403e5"
+  },
+  {
+   "title": "The Tumbling Paddies",
+   "artist": "The Tumbling Paddies",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "O2 Academy Liverpool",
+   "city": "Liverpool",
+   "postcode": "L3 5UF",
+   "lat": 53.4091275,
+   "lng": -2.9771058,
+   "genres": [
+    "folk",
+    "indie folk"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/779/d4bc7e11-1b50-4aa4-a2be-0a21569f5779_106531_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/the-tumbling-paddies-liverpool-23-10-2026/event/3E0062CDE6E01B9A",
+     "price": null
+    }
+   ],
+   "id": "421996d780cb"
+  },
+  {
+   "title": "Blackmores Blood - A Tribute to Richie Blackmore",
+   "artist": "Blackmore's Blood",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "venue": "Platform",
+   "city": "Morecambe",
+   "postcode": "LA4 4DB",
+   "lat": 54.07131,
+   "lng": -2.874801,
+   "genres": [
+    "hard rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.universe.com/events/blackmores-blood-a-tribute-to-richie-blackmore-tickets-3KHV5G?ref=ticketmaster",
+     "price": null
+    }
+   ],
+   "id": "df8af18d0c92"
+  },
+  {
+   "title": "The Shamrocks",
+   "artist": "The Shamrocks",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "venue": "Bridgewater Hall",
+   "city": "Manchester",
+   "postcode": "M2 3WS",
+   "lat": 53.475741,
+   "lng": -2.244913,
+   "genres": [
+    "alternative rock",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/5a1/cefc6803-512c-4ef9-8f1a-cb034d7ba5a1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/the-shamrocks-manchester-23-10-2026/event/1F00634F93A848A0",
+     "price": null
+    }
+   ],
+   "id": "baeafd4babfd"
+  },
+  {
+   "title": "Gia Ford",
+   "artist": "Gia Ford",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "venue": "Manchester Gullivers",
+   "city": "Manchester",
+   "postcode": "M4 1LW",
+   "lat": 53.483626,
+   "lng": -2.234621,
+   "genres": [
+    "r&b"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/1c3/059f52de-6000-4f0b-a59e-74e6f894b1c3_TABLET_LANDSCAPE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketweb.uk/event/gia-ford-gullivers-tickets/14860443?REFERRAL_ID=tmfeed",
+     "price": null
+    }
+   ],
+   "id": "8e3aa8a625ca"
+  },
+  {
+   "title": "Westlife 25 - The Anniversary World Tour",
+   "artist": "Westlife",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "venue": "Co-op Live",
+   "city": "Manchester",
+   "postcode": "M11 3DU",
+   "lat": 53.48661136,
+   "lng": -2.1995797,
+   "genres": [
+    "pop",
+    "rock"
+   ],
+   "image": "https://s1.ticketm.net/dam/a/58c/877bb67c-6506-441e-ad9a-38522c94758c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "sources": [
+    {
+     "name": "Ticketmaster",
+     "url": "https://www.ticketmaster.co.uk/westlife-25-the-anniversary-world-tour-manchester-23-10-2026/event/37006355F06AA46D",
+     "price": null
+    }
+   ],
+   "id": "6ac107ce6396"
   }
  ]
 }
